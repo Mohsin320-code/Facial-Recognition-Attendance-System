@@ -16,3 +16,14 @@ A Facial Recognition Attendance System developed using Python and OpenCV. This p
 - **NumPy**  
 - **Pandas**  
 - **SQLite / CSV / Excel**  
+
+Facial-Recognition-Attendance-System/
+│
+├── main.py                 # Main file to run the system
+├── train.py                # Script to train the recognition model
+├── requirements.txt        # Required dependencies
+├── dataset/                # Stores facial images of users
+├── models/                 # Trained recognition model files
+├── attendance.csv          # Attendance records
+└── README.md               # Project documentation
+
