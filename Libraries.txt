@@ -1,0 +1,7 @@
+NOTE: pip version should be 20.2.0 otherwise dlib will not work
+
+pip install numpy
+pip install opencv-python
+pip install cmake
+pip install dlib (v.19.18.0)
+pip install face-recognition
